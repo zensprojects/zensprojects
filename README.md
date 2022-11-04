@@ -1,4 +1,4 @@
-# zensprojects
+# kit1
 
 i am somewhat good developer
 currently working on [kitmail](http://zensprojects.ct8.pl) and other things
