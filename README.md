@@ -1,4 +1,4 @@
-# kit1
+<!-- kit1
 
 i am somewhat good developer
 currently working on [kitmail](http://zensprojects.ct8.pl) and other things
@@ -9,7 +9,7 @@ for service please dial [kit1@zensprojects.ct8.pl](mailto:kit1@zensprojects.ct8.
 
 
 
-<!--
+
 ### Hi there 👋
 
 
